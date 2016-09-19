@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/address_check"
+    tools:context=".Welcome_Screen">
+
+<ImageView
+    android:layout_centerInParent="true"
+    android:src="@drawable/welcome_logo_burned"
+    android:background="@android:color/transparent"
+    android:layout_width="300dp"
+    android:layout_height="300dp" />
+
+</RelativeLayout>

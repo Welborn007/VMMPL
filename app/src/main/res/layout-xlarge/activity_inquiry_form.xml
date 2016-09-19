@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/blue"
+    tools:context="tech.vmmpl.com.vaaishnomaametalinks.Mail_inquiry.Inquiry_form">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Enquiry Details"
+                android:background="@drawable/customborder"
+                android:textSize="28sp"
+                android:textColor="#203088"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <EditText
+                android:hint="Details"
+                android:textSize="24sp"
+                android:lines="3"
+                android:gravity="start"
+                android:id="@+id/details"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:imeOptions="actionDone"
+                android:singleLine="false"
+                android:inputType="textMultiLine|textCapSentences"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/ll1"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/d1"
+                android:text="Contact Information"
+                android:background="@drawable/customborder"
+                android:gravity="center"
+                android:textSize="24sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_below="@+id/d1"
+                android:hint="Your Name"
+                android:textSize="24sp"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/gen"
+                android:inputType="textCapSentences"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Spinner
+                android:id="@+id/gen"
+                android:layout_below="@+id/d1"
+                android:layout_marginTop="10dp"
+                android:entries="@array/gender"
+                android:padding="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Spinner>
+
+            <EditText
+                android:id="@+id/company_name"
+                android:layout_below="@+id/name"
+                android:hint="Your Company Name"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:textSize="24sp"
+                android:inputType="textCapSentences"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/Address"
+                android:layout_below="@+id/company_name"
+                android:hint="Address"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:textSize="24sp"
+                android:inputType="textCapSentences"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Spinner
+                android:id="@+id/country"
+                android:layout_below="@+id/Address"
+                android:entries="@array/country_arrays"
+                android:textSize="24sp"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></Spinner>
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_below="@+id/country"
+                android:hint="E-Mail"
+                android:inputType="textEmailAddress"
+                android:textSize="24sp"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/mobile"
+                android:layout_below="@+id/email"
+                android:hint="Mobile No."
+                android:inputType="number"
+                android:textSize="24sp"
+                android:background="@drawable/edittextstyle"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_below="@+id/mobile"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+
+            <Button
+                android:text="Submit"
+                android:id="@+id/submit"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/layout_bg"
+                style="@style/button_tablet"
+                android:layout_below="@+id/view1"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Reset"
+                android:id="@+id/reset"
+                android:background="@drawable/layout_bg"
+                style="@style/button_tablet"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/view1"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

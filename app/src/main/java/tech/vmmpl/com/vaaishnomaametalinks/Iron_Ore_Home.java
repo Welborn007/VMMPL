@@ -14,17 +14,19 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import tech.vmmpl.com.vaaishnomaametalinks.Mail_inquiry.Inquiry_form;
+import tech.vmmpl.com.vaaishnomaametalinks.Ore.Iron_ore;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-public class Coal_Home extends Activity {
+public class Iron_Ore_Home extends Activity {
 
+    Button s1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //Remove notification bar
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_coal__home);
+        setContentView(R.layout.activity_iron__ore__home);
 
         ActionBar actionBar = getActionBar();
         actionBar.setDisplayShowCustomEnabled(true);
@@ -34,17 +36,27 @@ public class Coal_Home extends Activity {
         actionBar.setTitle(null);
         getActionBar().setDisplayShowHomeEnabled(true);
 
+        s1 = (Button) findViewById(R.id.w4);
+        s1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Iron_Ore_Home.this, Iron_ore.class);
+                startActivity(intent);
+            }
+        });
+
         Button a1 = (Button) findViewById(R.id.inquiry);
 
         a1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Coal_Home.this, Inquiry_form.class);
-                intent.putExtra("product","Coal");
+                Intent intent = new Intent(Iron_Ore_Home.this, Inquiry_form.class);
+                intent.putExtra("product","Iron Ore");
                 startActivity(intent);
             }
         });
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -105,7 +117,4 @@ public class Coal_Home extends Activity {
         }
 
     }
-
-
-
 }

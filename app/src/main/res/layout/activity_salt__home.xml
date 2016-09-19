@@ -1,0 +1,82 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/blue"
+    tools:context="tech.vmmpl.com.vaaishnomaametalinks.Salt_Home">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/w1"
+            android:src="@drawable/salt"
+            android:padding="10dp"
+            android:background="@drawable/customborder"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <Button
+            style="@style/button_text"
+            android:layout_below="@+id/w1"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/inquiry"
+            android:layout_gravity="center"
+            android:text="Enquiry Now"
+            android:background="@drawable/layout_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/w2"
+            android:text="Industrial Salt"
+            android:layout_below="@+id/inquiry"
+            android:textSize="16sp"
+            android:textColor="#203088"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <TextView
+                android:text="@string/industrial_salt"
+                android:id="@+id/w3"
+                android:textSize="14sp"
+                android:padding="10dp"
+                android:layout_below="@+id/w2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <Button
+            android:id="@+id/w4"
+            android:layout_below="@+id/w3"
+            android:layout_margin="5dp"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:textColor="#203088"
+            android:text="Click here for Industrial Salt Products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>

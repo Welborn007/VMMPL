@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_home"
+        android:icon="@drawable/ic_action_action_home"
+        android:title="Login"
+        android:showAsAction="always" >
+
+    </item>
+
+
+
+    <item android:id="@+id/Menu"
+        android:title="Menu"
+        android:icon="@drawable/ic_action_dots"
+        android:showAsAction="always">
+
+        <menu>
+
+            <item android:id="@+id/aboutus"
+                android:title="About Us"
+                app:showAsAction="ifRoom"/>
+
+            <item android:id="@+id/promoter"
+                android:title="Promoter"
+                app:showAsAction="ifRoom"/>
+
+            <item android:id="@+id/goc"
+                android:title="Group of Companies"
+                app:showAsAction="ifRoom"/>
+
+            <item android:id="@+id/contact"
+                android:title="Contact Us"
+                app:showAsAction="ifRoom"/>
+
+
+        </menu>
+
+    </item>
+
+</menu>

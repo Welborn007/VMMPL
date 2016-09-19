@@ -4,27 +4,22 @@ import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.Button;
-import android.widget.TextView;
 
-import tech.vmmpl.com.vaaishnomaametalinks.Mail_inquiry.Inquiry_form;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-public class Coal_Home extends Activity {
-
+public class Contact_Us extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //Remove notification bar
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_coal__home);
+        setContentView(R.layout.activity_contact__us);
 
         ActionBar actionBar = getActionBar();
         actionBar.setDisplayShowCustomEnabled(true);
@@ -33,17 +28,6 @@ public class Coal_Home extends Activity {
 
         actionBar.setTitle(null);
         getActionBar().setDisplayShowHomeEnabled(true);
-
-        Button a1 = (Button) findViewById(R.id.inquiry);
-
-        a1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Coal_Home.this, Inquiry_form.class);
-                intent.putExtra("product","Coal");
-                startActivity(intent);
-            }
-        });
     }
 
     @Override
@@ -105,7 +89,4 @@ public class Coal_Home extends Activity {
         }
 
     }
-
-
-
 }

@@ -1,0 +1,368 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/blue"
+    tools:context="tech.vmmpl.com.vaaishnomaametalinks.Products_Tree">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/layout_IronOre"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/a1"
+                    android:text="Iron Ore"
+                    android:textSize="26dp"
+                    android:layout_margin="10dp"
+                    android:textStyle="bold"
+                    android:textColor="#203088"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Iron Ore Fines"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Iron Ore Lumps"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Iron Size Ore"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Pig Iron Ore"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Sponge Iron"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Iron Pellets"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/layout_Coal"
+                android:layout_below="@+id/layout_IronOre"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/a2"
+                    android:text="Salt"
+                    android:textSize="26dp"
+                    android:layout_margin="10dp"
+                    android:textStyle="bold"
+                    android:textColor="#203088"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Industrial Salt"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Water Softener Tablet Salt "
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Hide Salt"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Fluoridated Salt"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Raw Salt"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 De-Icing Salt"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/layout_Grease"
+                android:layout_below="@+id/layout_Coal"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/a3"
+                    android:text="Greases"
+                    android:textSize="26dp"
+                    android:layout_margin="10dp"
+                    android:textStyle="bold"
+                    android:textColor="#203088"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Multipurpose Grease"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Chassis Grease"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/layout_Phytoscience_Products"
+                android:layout_below="@+id/layout_Grease"
+                android:orientation="vertical"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/a4"
+                    android:text="Phytoscience Products"
+                    android:textSize="26dp"
+                    android:layout_margin="10dp"
+                    android:textStyle="bold"
+                    android:textColor="#203088"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Phytoscience Double Stem Cell"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Phytoscience Triple Stem Cell"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Phytoscience Snowphyll"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Phytoscience 2 Slim"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/layout_Aloeve_Products"
+                android:layout_below="@+id/layout_Phytoscience_Products"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/a5"
+                    android:text="Aloeve Products"
+                    android:textSize="26dp"
+                    android:layout_margin="10dp"
+                    android:textStyle="bold"
+                    android:textColor="#203088"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Aloe Vera Juice"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloe Vera Body Wash"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Hand Wash"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Shampoo"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve All Purpose Gel"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Face Wash"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Hair Gel"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Winter Moisturizing Gel"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="\u2022 Aloeve Face Pack"
+                    android:textSize="24dp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,394 @@
+<resources>
+    <string name="app_name">VMMPL</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- navigation drawer -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="home_content"><b>M/s. Vaaishno Maa Metalinks Pvt. Ltd. (VMMPL)</b> is a one-stop destination, as we are progressive Manufacturers, Exporters and Suppliers of a wide range of products. We are a young venture engaged in domestic and global trading of Aloeve Products, Phytoscience Products, Iron Ore and Greases. We have state-of-the-art manufacturing facility that empowers us to product premium, highly effective and safe Aloe Vera Products. In addition, we are backed by our sister concerns that empower us to source Phytoscience Products, Iron Ore and Greases in bulk and carry out trading across India, China, USA, Malaysia and many more countries. We maintain year round products’ availability and offer customized packaging solutions. We are a reliable company capable of fulfilling demands of buyers even at short notice."
+        </string>
+
+    <string name="Iron_ore_fines">We are enlisted among the reputed Manufacturers, Exporters and Suppliers of Iron Ore Fines. Made under the proper guidance of experts, buying Iron Ore Fines from us will be the safest option for the buyers. We have a well-equipped production unit that enables us to produce these fines in bulk at a time. Few words that better describe our fines are accurate composition and longer shelf life.
+
+        \n\n<b>Details : </b> \n
+ \u2022 Grade - As per requirements of Buyer\n
+ \u2022 Delivery - Ex-plot or Loaded on to Wagon\n
+ \u2022 Price - as Prevailing Market Price at Time of Confirmation\n
+ \u2022 Origin - Barbil / Joda (Orissa-India)
+
+        \n\nIron Ore Fines are primary raw material, which are used in the production of pig iron and subsequently steel. These come in the form of minerals and rocks. We acquire Iron Ore Fines from prominent and experienced vendors, who are chosen on their market understanding and experience. Thus, these are hugely appreciated among the prestigious customers.\n
+
+
+        \n<b>Properties of  Iron Ore Fines</b>\n
+        •	High iron content\n
+•	Minimal moisture
+
+    </string>
+
+    <string name="Iron_Ore_lumps">
+        Iron Ore Lumps that we offer are well tested and therefore, are the perfect option on which buyers can easily rely. We are named among the renowned Manufacturers, Exporters and Suppliers of Iron Ore Lumps. Made under the strict vigilance of experts, our Iron Ore Lumps are known for their accurate composition and longer shelf life. These lumps can be obtained from us at the most reasonable prices.\n\n
+
+<b>Details :</b> \n
+  \u2022 Grade - As per requirements of Buyer\n
+  \u2022 Delivery - Ex-plot or Loaded on to Wagon\n
+  \u2022 Price - as Prevailing Market Price at Time of Confirmation\n
+  \u2022 Origin - Barbil / Joda (Orissa-India)
+        \n\nIron ore lumps can be used in steel industries. We source the best quality iron ore lumps from rich iron ores and produce ones that are strong, durable and extremely versatile and free from impurities. It is also available in different sizes and weights. Further, we provide it at highly competitive prices
+\n\n<b>Properties of  Iron Ore Lumps</b>\n
+•	High strength\n
+•	Smooth surface
+    </string>
+    
+    <string name="Iron_size_ore">
+        <b>Commodity:-</b> Iron Ore Lump\n
+\u2022 Size:- 10 -30/40\n
+\u2022 Grade:- As per requirements of Buyer\n
+\u2022 Delivery:- Ex-plot or Loaded on to Wagon\n
+\u2022 Price:- as Prevailing Market Price at Time of Confirmation\n
+\u2022 Origin:- Barbil / Joda (Orissa-india)
+
+    </string>
+    
+    <string name="Pig_Iron_Ore">
+    Our company is ranked among well-established Manufacturers, Exporters and Suppliers of Pig Iron Ore. We extract it from top-notch quarries and sort it as per grade at our ultramodern processing facility. Buyers can get Pig Iron Ore from us at market leading prices. We can make it available in bulk anytime of the year. In addition, owing to our efficient delivery network, we can make deliveries of consignments within the stipulated time.\n\n<b>Characteristics</b>\n
+\u2022 Pig iron is the intermediate product of smelting iron ore\n
+\u2022 It is the molten iron from the blast furnace, which is a large and cylinder-shaped furnace charged with iron ore, coke, and limestone.\n
+\u2022 Pig iron has a very high carbon content, typically 3.5–4.5%%, along with silica and other constituents of dross, which makes it very brittle and not useful directly as a material except for limited applications.\n\nPig iron is the intermediate product of smelting iron ore. It is the molten iron from the blast furnace, which is a large and cylinder-shaped furnace charged with iron ore, coke, and limestone. Charcoal and anthracite have also been used as fuel. Pig iron has a very high carboncontent, typically 3.5–4.5%%, along with silica and other constituents of dross, which makes it very brittle and not useful directly as a material except for limited applications \n\n
+
+<b>Properties of  Pig Iron</b>\n
+•	Corrosion resistance\n
+•	High iron content\n
+•	Free from impurities
+    </string>
+
+    <string name="Sponge_iron_ore">Sponge iron is a metallic product produced through direct reduction of iron ore in the solid state. It is a substitute for scrap and is mainly used in making steel through the secondary route. The process of sponge iron making aims to remove the oxygen from iron ore. The quality of sponge iron is primarily ascertained by the percentage of metallization (removal of oxygen), which is the ratio of metallic iron to the total iron present in the product.\n\n
+<b>Properties of Sponge Iron</b>\n
+•   High iron content and high degree of metallization\n
+•   Uniform and consistent quality\n
+•   Lower sulphur and phosphorus content\n
+•   Negligible tramp element\n
+•   Minimum dust generation during material handling\n
+•   Good flow ability in bins, pipes and conveyors for continuous and trouble free charging\n
+•   Superior technical support to induction furnace operators
+
+    </string>
+    
+    <string name="Iron_pellets">Pellets are uniform size, with purity of 63%%- 65%% contributing to faster reduction and high metallization rates. Pellets with their high, uniform mechanical strength and high abrasive strength increase production of sponge iron by 25%% to 30%% with same amount of fuel.\nThe process of pelletization enables converting Iron Ore Fines into “Uniformed Sized Iron Ore Pellets” that can be charged into the blast furnaces or for Production of Direct Reduced Iron (DRI).\n\n
+<b>Properties of  Iron Ore Pellets :</b>\n
+•	Cold crushing strength of pellets found to increase with increasing firing temperature.\n
+•	Decrease of mean particle size (MPS) does not have a relationship with the pellet strength, but it reduces the porosity of the pellet.\n
+•	Fluxed pellets exhibits good strength, improved reducibility, swelling and softening melting characteristics. Because of these properties these pellets give better performance in the blast furnace.\n
+•	Swelling indicates volume change of pellets during reduction. Higher swelling reduces the strength of the pellets after their reduction thereby resulting in high resistance to gas flow, burden hanging and slipping indiside the blast furnace. Maximum allowable swelling of pellets for the blast furnace ranges from 16%% -18 %%.\n
+•	Acid pellets (DRI pellets) and MgO free pellets exhibit higher swelling at 0.6 basicity and decreased thereafter
+
+    </string>
+
+    <string name="Water_Softener_Tablet_Salt">Commonly used for softening water in various industries, our <b>Water Softener Tablet Salt</b> is very popular. We are reliable Supplier and Exporter of Water Softener Tablet Salt from Gujarat. The Water Softener Tablet Salt is an ideal product to be used in swimming pools for softening and making water perfect for swimmers. It finds application in swimming pools, industrial usage, hospitals, hotels, etc.</string>
+
+    <string name="hide_salt">A granulated high purity salt with chemicals completely defines our <b>Hide Salt</b>. Our company is a reliable Supplier and Exporter of Hide Salt from Gujarat. The offered Hide Salt is a coarse Salt with lower magnesium and calcium content. It is mixed with chemicals/additives. We ensure that the Hide Salt reaches the customers after three stages of purification. Special care is taken about the packaging of the Salt, to retain its freshness.</string>
+
+    <string name="flouridated_salt">For premium quality triple refined <b>Fluoridated Salt</b> with high whiteness, you can contact us. Our company is a trusted Supplier and Exporter of Fluoridated Salt from Gujarat. The offered Fluoridated Salt has low moisture content. We offer the Fluoridated Salt in different packaging options. Our workforce takes special care in the processing and packaging of the Fluoridated Salt, to retain its natural properties. Customers can buy the Salt at competitive rates.</string>
+
+    <string name="raw_salt"><b>Raw Salt</b> is an unprocessed salt used for human consumption as well as ideal for many industrial uses. We are an eminent Supplier and Exporter of Raw Salt from Gujarat. The offered Raw Salt is highly demanded by the clients for its purity and high quality. We are capable of supplying bulk requirements of Raw Salt to the customers at competitive prices. Natural, sea Salt and white in colour completely defines our <b>Raw Sea Salt</b>.</string>
+
+    <string name="de_ice_salt"><b>De-Icing Salt</b> is washed salt used for removal of snow. The company is an unsurpassed Supplier and Exporter of De-Icing Salt from Gujarat. Our De-Icing Salt is highly demanded by the customers for its purity and high quality. We are capable of delivering bulk orders of De-icing Salt at nominal rates. Natural, sea Salt and white colour are some of the attributes of the offered De-Icing Salt.</string>
+
+    
+    <string name="multipurpose_grease"><b>Multipurpose Grease</b> that we offer is water resistant. Heavy-duty Multipurpose Grease that we offer is specifically formulated for industrial equipment. It provides superior protection against heavy loads, contaminants, heat and high speeds. We are listed among the top Manufacturers, Exporters and Suppliers of Multipurpose Grease. One can place retail as well as bulk orders for Multipurpose Grease with us.\n\n
+
+<b>Details :</b>\n
+        • Heavy-duty water-resistant grease specifically formulated for industrial equipment. Provides superior protection against heavy loads, contaminants, heat and high speeds.\n
+ \u2022 Superior Water Resistance - heavier than water for superior performance\n
+ \u2022 Stays in place to prevent wear under heavy-load conditions\n
+ \u2022 Outstanding Temperature Performance- Remains Effective up to 204°C Continuous\n
+ \u2022 240°C Intermittent with increased lubrication frequency.\n
+ \u2022 Excellent High Speed Bearing Performance - up to 300,000 DN at 180o C\n
+ \u2022 Minimizes Abrasive Wear Caused by Dirt and Dust\n
+ \u2022 Exceptional Oxidation Resistance\n
+ \u2022 Prevents Rust and Corrosion
+
+    </string>
+
+    <string name="chassis_grease">Excellent quality <b>Chassis Grease</b> is available with us! It is used to provide efficient lubrication to the parts of machines. We are reckoned as one of the reputed Manufacturers, Exporters and Suppliers of Chassis Grease. It is formulated as per the set industry standards. Our Chassis Grease is well tested and therefore, is the perfect option for the buyers. In order to attain the maximum customer satisfaction, we provide Chassis Grease at market leading price.\n\n
+
+<b>Features :</b>\n
+ \u2022 Easy application\n
+ \u2022 Water resistant\n
+ \u2022 Heat resistant
+
+    </string>
+    
+    <string name="double_stem"><b>Phytoscience Double Stem Cell</b> that we offer is formulated using the latest techniques under the supervision of experts. It is well tested and therefore, buying Phytoscience Double Stem Cell from us will be the safest option for the buyers. We are counted among the top Manufacturers, Exporters and Suppliers of Double Stem Cell.\n\n
+
+<b>Details :</b>\n
+ \u2022 100\%% natural\n
+ \u2022 Swiss quality formulation\n
+ \u2022 Intensive researches on stem cells showed tremendous potential to repair damaged tissue and organs\n
+ \u2022 Stem cells are capable of self-renewal and can transform themselves into differentiated cells\n
+ \u2022 Epidermal stem cells are crucial to replenish the skin cells that are lost due to continual shedding. When epidermal stem cells are depleted, the number of lost or dying skin cells outpaces the production of new cells, threatening the skin\'s health and appearance.\n
+ \u2022 The patented extract PhytoCellTec™ Malus Domestica, has been shown to stimulate human stem cell proliferation, protect stem cells against ultraviolet light-induced death, and mitigate aging-related alterations in gene expression\n
+ \u2022 A human study showed that topical application of PhytoCellTec™ Malus Domestica reduced the depth of crow\'s feet wrinkles after only two weeks.\n
+ \u2022 Best active ingredient award 2008\n
+ \u2022 Patented ingredient (US2008/0299092A1)\n
+ \u2022 GMO-Free\n
+ \u2022 Clinically-proven efficacy
+
+    </string>
+
+    <string name="triple_stem"><b>Phytoscience Triple Stem Cell</b> that we offer is formulated and tested under the proper guidance of experts so as to ensure compositional accuracy. We have a well-equipped production unit that enables us to produce Triple Stem Cell in bulk at a time. We are counted among the top Manufacturers, Exporters and Suppliers of Triple Stem Cell.\n\n
+
+<b>Details :</b>\n
+ \u2022 Protects longevity of skin stem cells\n
+ \u2022 Delays senescence of hair follicles\n
+ \u2022 Anti-wrinkle Effect\n
+ \u2022 Improves the vitality of stem cells\n
+ \u2022 Patent pending\n
+ \u2022 Protects skin stem cells against UV stress\n
+ \u2022 Delays senescence of essential cells\n
+ \u2022 Fights photo-aging\n
+ \u2022 For a vital and healthy-looking skin\n
+ \u2022 Dermal rejuvenation of the skin\n
+ \u2022 Vitalizes &amp; protects dermal stem cells, which are responsible for collagen and elastin\n
+ \u2022 Production Accelerates skin’s natural repair process\n
+ \u2022 Tightens &amp; tones skin tissue\n
+ \u2022 Combats chronological aging\n
+ \u2022 Fights wrinkles and loss of firmness\n
+ \u2022 Deep-seated rejuvenation of the skin\n
+ \u2022 Award winner (BSB innovation prize for the best active ingredient 2008)
+    </string>
+
+    <string name="snowphyll"><b>Phytoscience Snowphyll</b> that we offer is well tested and therefore, is then perfect option for the buyers. We are enlisted among the top Manufacturers, Exporters and Suppliers of Snowphyll. Formulated under the keen observation of experts, one can buy Snowphyll from us without any doubt. It can be obtained from us at the best market price.\n\n
+
+<b>Details :</b>\n
+\u2022 Best Aid in Gastrointestinal problems: Refined, low fiber &amp; animal fats contribute to major diseases start in the colon. Gastrointestinal problems can be best treated by improving the digestion &amp; assimilation. High chlorophyll content aids in loosening &amp; cleansing the colon\n
+\u2022 Promotes formation of hemoglobin &amp; red blood cells: Hemoglobin is the iron-containing substance that provides red blood cells their red pigment &amp; transports oxygen to the body tissues. Rich in magnesium that gives a high alkalizing effect to the body. It helps in rebuilding &amp; replenishing the red blood cells which is responsible for boosting our energy.\n
+\u2022 Detoxify toxins that cause chronic illnesses: It reduces the binding of carcinogens from foods like cooked meat products that damage the DNA &amp; other organs of the body particularly the liver.\n
+\u2022 Beneficial in assimilating calcium &amp; other heavy minerals: Very easy to absorb &amp; assimilate. It can assimilate calcium &amp; balance other trace minerals to rebuild, replace &amp; exchange with the new tissue\n
+\u2022 Fights infections: Contains anti-oxidant &amp; anti-inflammatory compounds of Vitamin A, C &amp; E that help to reduce inflammation, kill harmful bacteria &amp; kill germs by strengthening the tissues\n
+\u2022 Treats bad breath: Bad breath is caused by oral bacteria that reside in a person’s mouth &amp; it excretes odoriferous waste products. Snowphyll acts as deodorizer that eliminates bad odor &amp; reduces the stringent smell of urine, infected wounds &amp; feces.\n
+\u2022 Skin rejuvenation: Reinforced skin barrier, better skin hydration, less visible age spots, fresher, better moisturized &amp; smoother skin\n
+\u2022 Managing Blood Sugar &amp; Weight Loss: Has the ability to prevent blood sugar spikes &amp; inhibit sugar digestion, suppresses cravings and prevents fat from being made
+    </string>
+    
+    <string name="to_slim">The formulation of our <b>Phytoscience 2 Slim</b> is done using highly advanced techniques under the supervision of experts. It is tested on various quality parameters prior to its final dispatch. The packaging of our Phytoscience 2 Slim is done using high-grade material so as to retain its compositional accuracy, quality and shelf life.\n\n
+
+<b>Details :</b>\n
+ \u2022 Curbs appetite: Reduces Caloric Intake, Inhibits Fat Production, Promotes healthy body weight\n
+ \u2022 Increases serotonin for improved mood &amp; better sleep: Lowers bad cholesterol levels, Patented &amp; clinical-proven fad binder\n
+ \u2022 Reduces body mass index\n
+ \u2022 Decreases hunger\n
+ \u2022 Converts fat reserves into energy\n
+ \u2022 Promotes fat metabolism\n
+ \u2022 Uses enzymes to help regulate glucose pathways\n
+ \u2022 Reduces hypertension\n
+ \u2022 Lowers cholesterol\n
+ \u2022 Balances sugar level\n
+ \u2022 Cleanses the colon\n
+ \u2022 Eliminates free radicals\n
+ \u2022 Dermal rejuvenation of the skin\n
+ \u2022 Vitalizes dermal stem cells, which are responsible for collagen and elastin production\n
+ \u2022 Accelerates skin’s natural repair process\n
+ \u2022 Combats chronological aging\n
+ \u2022 Fights wrinkles and loss of firmness\n
+ \u2022 Improves the vitality of stem cells\n
+ \u2022 Protects epidermal stem cells from UV stress
+    </string>
+    
+    
+    <string name="aloevera_juice">
+        We are an eminent Manufacturer, Supplier and Exporter of <b>Aloeve Aloe Vera Juice</b>  from Odisha. The Aloe Vera Juice we make available is a natural food supplement and health drink. Extracted from mature Aloe Vera plants, our Juice is rich in Polysaccharides, Minerals, Vitamins, Enzymes, Amino Acids, Laxatives (Anthraquinones), Lignins, Saponins, Salicylic acid, Prostaglandins, Fatty Acids, proteins etc. Buyers can obtain the Juice at nominal rates from us.\n\n
+
+<b>Packing Size :</b> 1 ltr
+    </string>
+
+    <string name="aloevera_body_wash">
+        Our company has cemented its presence among the trusted Manufacturers, Suppliers and Exporters of <b>Aloe Vera Body Wash</b> from Odisha. Our Aloe Vera Body Wash is a balanced multi active formulation, which is highly effective in cleansing the skin. The rich lather produced by our Body Wash helps to get rid of dust, dirt and grime from the epidermis (skin).  One can obtain the Body Wash at reasonable rates.\n\n
+
+<b>Details :</b>
+ \u2022 With milk protein, Aloe Vera extract refreshes, moisturizes and conditions the skin making the skin soft, supple &amp; smooth\n
+ \u2022 Packing Size - 100 ml
+    </string>
+
+
+    <string name="hand_wash">
+
+        Get in touch with us for excellent quality Aloeve Hand Wash! We are a renowned Manufacturer, Supplier and Exporter of <b>Aloeve Hand Wash</b> from Odisha. Enriched with milk protein, our Hand Wash refreshes, moisturizes and conditions the skin nd thus making it soft, supple and smooth. We hold the expertise pf delivering bulk orders of the Hand Wash within the promised timeframe.\n\n
+
+<b>Details :</b>\n
+ \u2022 It is a balanced multi active formulation which cleanses the skin with rich lather that helps to getting rid of dust, dirt and grime from the epidermis (skin)\n
+ \u2022 Packing Size: 250 ml
+    </string>
+
+
+<string name="shampoo">
+
+    For strong, healthy and soft hair, use our Aloeve Shampoo. Our company is a nonpareil Manufacturer, Supplier and Exporter of <b>Aloeve Shampoo</b> from Odisha. The Shampoo conditions and nourishes hair. Owing to its balanced pH formula, our Shampoo is safe to use on color treated hair. Our Shampoo promotes hair growth and help prevents hair fall and dandruff.  Buyers can obtain the Shampoo at reasonable rates from us.\n\n
+
+<b>Packing Size:</b> 100 ml
+</string>
+
+    <string name="all_gel">
+
+        We are bracketed among the successful Manufacturers, Suppliers and Exporters of <b>Aloeve All Purpose Gel</b> from Odisha. The Aloeve All Purpose Gel offered by us is known for its moisturizing and emollient action. Our All Purpose Gel is beneficial for black eye marks, dark circles, acne, wrinkle, etc.  Buyers are free to place bulk orders of the All Purpose Gel with us and we ensure their timely execution.\n\n
+
+<b>Details :</b>\n
+\u2022 It protects against skin diseases, pollution and sunburns\n
+\u2022 It is also beneficial for pregnancy stretch marks, cuts, wounds, insect bites, burns, eczema, blotchy skin, skin eruptions due to pimples\n
+\u2022 It can be used as aftershave gel and moisturize\n
+\u2022 Packing Size - 100 gm
+    </string>
+
+
+<string name="face_wash">
+    Owing to the unique herbal formulation, our <b>Aloeve Face Wash</b> is highly effective in removing dead cells, dirt and excess oil.  The company is a preeminent Manufacturer, Supplier and Exporter of Aloeve Face Wash from Odisha. Our Face Wash nourishes the skin and conditions without leaving the skin dry and feeling stretched. The entire range of the Face Wash is reasonably priced by us.\n\n
+
+<b>Details :</b>\n
+ \u2022 Beneficial for controlling wrinkles black sport, acne, pimples and pigmentation\n
+ \u2022 Packing size - 100 ml
+</string>
+
+<string name="hair_gel">
+
+    We are a well known Manufacturer, Supplier and Exporter of <b>Aloeve Hair Gel</b> from Odisha. The Aloeve Hair Gel we make available fortifies and conditions the hair strands with essential nutrients. Hair Gel offered by us is highly effective in restoring the natural luster and softness of the hair. Courtesy our brilliant logistics network, we are capable of delivering bulk orders of the Hair Gel within the stipulated time.\n\n
+
+Packing size - 100 gm
+</string>
+
+<string name="winter_gel">
+Our company is an eminent Manufacturer, Supplier and Exporter of <b>Aloeve Winter Moisturizing Gel</b> from Odisha. The Winter Moisturizing Gel we make available protects skin from dry and harsh winters.  Our Gel moisturizes and nourishes and the skin thus making it soft and supple. We have all the in-house facilities to deliver bulk orders of the Moisturizing Gel within the allocated timeframe.\n\n
+
+\u2022 Packing Size - 100 gm
+
+</string>
+
+<string name="face_pack">
+    We are a distinguished Manufacturer, Supplier and Exporter of <b>Aloeve Face Pack</b> from Odisha. The Aloeve Face Pack offered by us helps to remove pimples, dark patches, pigmentation, etc. Our Face Pack is also effective in treating minor skin diseases. Perfect for light exfoliation, our Face Pack keeps the skin soft, less oily and less dry.  Buyers can obtain the Face Pack at competitive rates from us.\n\n
+
+Packing Size - 50 gm
+
+</string>
+
+
+    <string name="iron_header">
+        We deal in different forms of <b>Iron Ore</b>. Our range includes Iron Ore Fines and Iron Ore Lumps. The name of our company surfaces prominently among the trusted Manufacturers, Exporters and Suppliers of Iron Ore. Accurate composition and longer shelf life are some of the attributes that make our Iron Ore highly popular. Obtain from us, small as well as bulk quantities of Iron Ore at the most reasonable prices.\n\n
+
+        Iron ores are rocks and minerals from which metallic iron can be economically extracted. The ores are usually rich in iron oxides and vary in colour from dark grey, bright yellow, deep purple, to rusty red. The iron itself is usually found in the form of magnetite(Fe3O4, 72.4%% Fe), hematite (Fe2O3, 69.9%% Fe), goethite (FeO(OH), 62.9%% Fe), limonite (FeO(OH).n(H2O)) or siderite (FeCO3, 48.2%% Fe).\n\n
+Ores containing very high quantities of hematite or magnetite (greater than ~60%% iron) are known as "natural ore" or "direct shipping ore", meaning they can be fed directly into iron-making blast furnaces. Iron ore is the raw material used to make pig iron, which is one of the main raw materials to make steel. 98%% of the mined iron ore is used to make steel. Indeed, it has been argued that iron ore is "more integral to the global economy than any other commodity.\n\n
+
+<b>Properties of Iron Ore</b>
+•	Magnetite:  This is the best quality of iron ore and contains 72 per cent pure iron.
+•	Haematite: It contains 60 per cent to 70 per cent pure iron.
+•	Limonite: It contains 40 per cent to 60 per cent pure iron.
+•	Siderite:  It contains many impurities and has just 40 to 50 per cent pure iron.
+
+    </string>
+
+    <string name="Coal">
+<b>COAL MINING :</b>\n
+The majority of the energy requirement in India is met by coal, largely mined in the eastern and the central regions of the country. In 2004-05, the total coal production in the country was around 350 million MT and majority of it catered to the core sectors of power, steel and cement. Inspite of various policy initiatives to diversify the fuel mix, it is becoming increasingly evident that coal will continue to play the major role in sustaining the growth momentum of India. Based on estimates, the consumption of coal is projected to rise by nearly 40 percent over the next five years and almost to double by 2020. However, in the recent past, the coal sector in the country has come under pressure over its inability to meet demand (both planned and unplanned) of the user industries. By Government\'s own estimates, coal production will lag behind demand. According to Geological Survey of India, the Talcher Coalfield has reserves of 38.65 billion tonnes, the highest in India. Talcher Coalfield covers an area of 500 square kilometres (190 sq mi). The coal is of lower grade containing only about 35 per cent of fixed carbon, 40 per cent volatile matter and 25 per cent ash content.\n\n
+
+        <b>SAFETY &amp; SECURITIES :</b>\n
+Orissa is rich in different types of Mineral Mines like, Coal, Iron, Manganese, Bauxite &amp; Charge Chrome. The Government has privatised all Mineral Mines in India leaving Coal Mines. Coal is the only mineral which is under the control of the Government Of India; therefore Coal mining has never been affected in Odisha as the other minerals which are Privatised. The Privatised mines have been affected by Government Rules &amp; Regulations for their MISAPPROPRIATION &amp; ILLEGAL MINING. Where As Coal Mining Is Being Done From The Year Of 1962 At Talcher, Odisha, Without The Mining Stopped.\n\n
+
+<b>MARKET OPPORTUNITY :</b>\n
+
+Even though coal has been highly touted “The bridge to the future”. Market opportunity of our project is very high. In the history of coal transportation in Talcher area, it is a proven fact that the mining work of all the mines under MCL at Talcher has never been stopped for a single day. All the coal mines have been running since the commencement of every project. So far as the market opportunity is concern “sky is the limit” as we can say “COAL IS THE SOUL OF ALL INDUSTRIES”. As per example if we take the case of Thermal power plants, Steel plants, Cement factories everywhere Coal is the prime ingredient. More than 70 percent of electricity is being generated by Thermal Power Plants.  The coal available at all the mines at Talcher are having the appropriate grade which is suitable for the power plants. So the opportunity is very high.  At the same time we have availed other Coal Shifting projects at Talcher and some of the new projects are in the pipe line which will be acquired by Vaaishno Maa Metalinks Pvt. Ltd. in near future.\n\n
+
+<b>ECONOMY :</b>\n
+
+Talcher is known for its coal reserves. It has numbers of underground and open-cast mines. Dera colliery is the oldest mine here. The coalfields are managed by Mahanadi Coalfields Limited (MCL), a subsidiary of Coal India Limited (CIL). The establishment of Talcher Thermal Power Station (TTPS), Heavy Water Plant and the Collieries (MCL) have enhanced the importance of the place.\n\n
+
+
+<b>FUTURE PROSPECTS :</b>\n
+
+The average tenure of each and every coal project is not less than 40 - 45 years in Talcher area. Our focus is for another 35 - 40 years of Loading &amp; Shifting, Rack Loading, Raising work in Bhubaneswari, Ananta, Jagannatha mines, in the due course of time we will acquire another projects in Lingaraj &amp; Jarada mines in this same field, lots of revenues will be generated, lots of employment will be generated. India is among the fastest growing economies in the world. Energy is one of the major inputs for the economic development of any country. In developing countries, the energy sector assumes a critical importance in view of ever-increasing energy needs requiring huge investments to meet them. Coal dominates the energy mix in India, contributing over 60%% of the total primary energy production and is expected to continue to be crucial to India’s future energy needs.\n\n
+
+<b>DISTRIBUTION :</b>\n
+
+The Coal Mining Work is distributed into 3parts by MCL:\n
+a) OB CUTTING done by MCL in Bhubaneswari Coal Mines &amp; by OSL in Lingaraj Coal Mines.\n
+b) SURFACE MINOR CUTTING done by ADITYA BIRLA GROUP in Bhubaneswari Coal Mines &amp; by MCL in Lingaraj Coal Mines.\n
+c) LOADING &amp; SHIFTING OF COAL given to the different WELFARE CO-OPERATIVE SOCIETIES. ( These type of Welfare Co-Operative Societies has created By MCL for 25 to 30 Land Looser villages joint together to earn Income from mining ). These type of Co-Operative Society formed by MCL through “Vender Development Scheme” to give Royalty to the Land Loser Families.\n\n
+
+<b>OUR WORK at COAL MINES:</b>\n
+
+Our Company Vaaishno Maa Metalinks Pvt. Ltd. has taken over some Co-Operative Societies for Mechanical Coal Loading &amp; Shifting work for MCL. Niladrinath Coal Transport Firm ( A Self-Help Co-Operative Society) And Gopashree Coal Transport Partnership Firm ( A Self-Help Co-Operative Society) for Bhubaneswari Coal Mines and from Rebaleswar Coal Transport Partnership Firm ( A Self-Help Co-Operative Society ) &amp; Lion Coal Transport Firm (A Self-Help Co-Operative Society) for Lingaraj Coal Mines. As per above work Vaaishno Maa Metalinks Pvt. Ltd. authorised to shifting of Coal approx 30,000 tones per day in different leads of 2 different coal mines. The coal has to shift from FACE To STOCK YARD, FACE To RAILWAY SIDING, STOCK YARD To RAILWAY SIDING &amp; FACE To CHP ( COAL HANDELING PLANT ).
+
+
+    </string>
+
+    <string name="industrial_salt">
+
+        We offer a wide range of <b>Industrial Salt</b>, which is highly pure. The company is a prominent Supplier and Exporter of Industrial Salt from Gujarat. Our Industrial Salt caters to the requirements of various industries such as textile, drilling and chemicals industries. The offered Industrial Salt has different specifications and various applications. We also offer Water Softener Tablet Salt, Hide Salt, Refined Free Flow Iodised Salt, Fluoridated Salt, Raw Sea Salt, and De-Icing Salt.\n\n
+
+<b>Attributes :</b>\n
+•	Purity Ranging from 96%% to 99.5%%\n
+•	Free from moisture content\n
+•	Free from impurities
+
+    </string>
+
+
+    <string name="grease">
+
+        We come up with different varieties of <b>Greases</b>. Our range includes Multipurpose Grease and Chassis Grease. We are reckoned among the renowned Manufacturers, Exporters and Suppliers of Greases. Made using highly advanced techniques under the keen observation of experts, buying Greases from us will be the safest option for the buyers. One is free to place retail as well as bulk orders for Greases with us.
+
+    </string>
+
+    <string name="phytoscience">
+        We share glorious credentials in the list of top Manufacturers, Exporters and Suppliers of Phytoscience Products. Our range of Phytoscience Products includes Phytoscience Double Stem Cell, Phytoscience Triple Stem Cell and many more. The manufacturing of these products is done using the latest techniques under the keen observation of experts. Tested using the latest techniques, our Phytoscience Products are free from any defect. These products can be obtained from us at competitive prices.
+
+    </string>
+
+    <string name="Aloeve">
+    Backed by our team of dexterous professionals, we have emerged as a trusted Manufacturer, Supplier and Exporter of Aloeve Products from Odisha. The Aloeve Products we make available include Aloeve Aloe Vera Juice, Aloe Vera Body Wash, Aloeve Hand Wash, Aloeve Shampoo, Aloeve All Purpose Gel, etc. Bulk orders of the Aloe vera Products are processed by us as per the specific requirements of the buyers.\n\n
+
+
+        <b>ALOEVE’ ALOE VERA NATURAL PRODUCTS FOR IMPROVEMENT OF QUALITY OF LIFE</b>\n
+Aloe Vera is nature’s gifted plant of great potential and immense value in the field of therapeutics, pharmaceuticals and cosmetic industries. Aloe Vera is being acclaimed the world over as:\n
+• Secret of Long Life\n
+• Strategy for Healthy Life\n
+• Elixir for Youthfulness\n
+Aloe Vera is one of the herbal medicinal plants mentioned in Vedas, Bible, Quran and Ayurvedic Classics like Charak Samhita, Sushruta Samhita etc and its herbal value has been recognized scientifically all over the world; especially in USA &amp; European Countries.
+
+    </string>
+
+    <string name="about_us">Incorporated in the year 2012, <b>M/s. Vaaishno Maa Metalinks Pvt. Ltd. (VMMPL)</b> is a part of Vaaishno Maa groups of Companies. The venture is governed by Mr. Sanjeev Meher (CEO) and under his leadership; we have emerged as one of the eminent names in Odisha, India.\n\n<b>Parent Group and Sister Concerns\nParent Group :</b> The Vaaishno Maa Group of Companies was incorporated in the year 2009. It is one of the leading multi-business Corporate Houses. The group carries out various operations such as Mining, Trading, Exports, Logistics, Construction etc. through various ventures.\n\n<b>Sister Concerns :</b> We are backed by our sister concerns named as follows :\n
+\u2022 Vaishno Maa Traders\n
+\u2022 Vaishno Maa Cargo &amp; Logistics\n
+\u2022 JMD Mine Works\n\n<b>Production Facility</b>\nTo provide 100% pure and effective Aloeve Products, we have set up an advanced manufacturing facility. It is equipped with the latest Pilot Plant to manufacture the samples. Furthermore, to fabricate viable products on a large scale, our manufacturing facility is endowed with the following : \n
+\u2022 A Distillation Unit\n
+\u2022 Chemical Agitators\n
+\u2022 Packaging unit\n\n<b>Work Force</b>\nA team of 500 qualified and experience personnel backs. With their support, we are able to provide quality assured products. Our team comprises of the following :\n
+\u2022 Skilled Workers\n
+\u2022 Procurement agents\n
+\u2022 Research and Development executives\n
+\u2022 Quality controllers\n
+\u2022 Administrative executives\n
+\u2022 Sales and marketing professionals\n
+
+    </string>
+
+    <string name="promoters"><b>Smruti Ranjan Biswal :</b>\nHe has been excellence knowledge in marketing and develop himself as a Businessman by introducing new techniques of marketing and strategic. In the mid 2009 he has establish the Company Vaaishno Maa Group (Vaaishno Maa Traders, Vaaishno Maa Metalinks Pvt. Ltd. &amp; Vaaishno Maa Cargo &amp; Logistics ) with an aim to make these companies as Leading Multi-Business Corporate House in, the field of Mining, Shifting, Export, Trading of Minerals, Real estate, Construction &amp; Nature Care etc.\n\n<b>Sweta Biswal :</b>\nShe was started her career in 2005 as a Corporate Consultancy In Finance for LIC, Reliance Life Insurance &amp; Birla Sun Life Insurance. She has established her own financial consultancy in 2008 as Smart Dreams Marketing Pvt. Ltd. after getting adequate knowledge and research about the products and the market. In year 2009 Vaaishno Maa Group took over Smart Dreams Marketing Pvt. Ltd. Presently holding the position of a Director in this company. She wisely manages in this company to encourage the group in achieving their goal to make these companies as Leading Multi-Business Corporate House. She has been participant a major role in new ventures and take care the cash flow with the working capital is enough for the old ventures, researching that the ventures are profitable for the group of the companies
+
+    </string>
+
+    <string name="group_of_companies">Vaaishno Maa Group Establish in 2009. It is one of the leading multi-business Corporate House in the field of Mining, Trading, Exports, Logistics, Construction etc. We have developed a strong Corporate Governance model based on the core values of Teamwork, Transparency, Integrity, Knowledge and Excellence. We have successfully expanded across the country with a great acceptance from our people and became able to establish a solid base for our Organization. We not only have been carried out in India &amp; Abroad the business of exploring, operating, excavate, dig, break, acquire, develop &amp; working on mines, minerals on the business of buy, sell, transport, import, export, Supply of all kind of Minerals, Industrial Salt, and cleaning of minerals &amp; metals but also act as contractor, distributors, agent, broker, supplier, consultant, operator, of sands, ores, minerals, coal, limestone, iron, gypsum, chrome and other allied materials.\n\nVaaishno Maa Group operates a large scale in sector of Iron / Coal / Bauxite / Manganese &amp; Lime Stone project with exploring employing the best people, processes and practices. The company has grown over the years and is positioned to be the country leader in the field of Mining, Trading, Exports, Logistics, Construction of different minerals. It operations are spread across Orissa, Jharkhand, Andhra Pradesh ,Chhattisgarh,West Bengle , Maharashtra &amp; Goa. We strongly believes in giving back to the society and its Corporate Social Responsibility it facilitates periphery development across verticals including medical welfare, afforestation, education, infrastructure development and cultural activities.\n\nVaaishno Maa Group values are formulated to strengthen the Company‘s culture and foster the growth of those positive elements that will promote in its development as it looks to establish itself as a successful and has been profited company, with a great reputation for operational eﬃciency, sustainable development and regards for social and environmental issues. We have been valued by our following effective natures.\n\n
+\u2022 Customer Satisfaction\n
+\u2022 Teamwork, Transparency and Integrity\n
+\u2022 Proper Planning and Management skills.\n
+\u2022 Innovation and Excellence.
+
+    </string>
+
+    <string name="contatc_us"><b>Regd. Office :</b> PL. No : 3D-1266/10, Sector-11 CDA, Cuttack-753014, Odisha.\n\n<b>Email ID :</b> info@vaaishnomaagroup.com\n\n<b>Zonal Office (Western) :</b> 116, Purvee Chamber, Behind VVCMC Office Vasai Road (W), Tal-Vasai, Dist-Palghar, Mumbai-401202, Maharashtra\n\n<b>Email ID :</b> info@vaaishnomaagroup.com\n\n<b>Site Office :</b> Santoshi Vihar, Near BSNL Tepephone Bhavan, Hatatota, Talcher, Dist-Anugul 759100, Odisha\n\n<b>Email ID :</b> info@vaaishnomaagroup.com\n\n<b>Zonal Office (Eastern) :</b> 98/16, Upasana Apartment, SN Banarjee Road, Kolkatta-700120 West Bengal\n\n<b>Email ID :</b> info@vaaishnomaagroup.com
+
+    </string>
+
+
+
+</resources>

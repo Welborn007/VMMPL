@@ -1,0 +1,327 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/blue"
+    tools:context="tech.vmmpl.com.vaaishnomaametalinks.Products">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:id="@+id/line1"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i1"
+                    android:text="Iron Ore"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="We deal in different forms of Iron Ore. Our range includes Iron Ore Fines and Iron Ore Lumps. The name of our company surfaces prominently among the trusted Manufacturers, Exporters and Suppliers of Iron Ore."
+                    android:id="@+id/i2"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i3"
+                    android:textColor="#203088"
+                    android:text="read more..."
+                    android:textSize="20dp"
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:layout_below="@+id/line1"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:id="@+id/line5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i13"
+                    android:text="Coal"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="Our Company Vaaishno Maa Metalinks Pvt. Ltd. has taken over some Co-Operative Societies for Mechanical Coal Loading &amp; Shifting work for MCL. Niladrinath Coal Transport Firm ( A Self-Help Co-Operative Society) And Gopashree Coal Transport Partnership Firm"
+                    android:id="@+id/i14"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i15"
+                    android:textColor="#203088"
+                    android:text="read more..."
+                    android:textSize="20dp"
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:layout_below="@+id/line1"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:id="@+id/line6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i16"
+                    android:text="Industrial Salt"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="We offer a wide range of Industrial Salt, which is highly pure. The company is a prominent Supplier and Exporter of Industrial Salt from Gujarat."
+                    android:id="@+id/i17"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i18"
+                    android:textColor="#203088"
+                    android:textSize="20dp"
+                    android:text="read more..."
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:layout_below="@+id/line1"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:padding="10dp"
+                android:id="@+id/line2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i4"
+                    android:text="Greases"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="We come up with different varieties of Greases. Our range includes Multipurpose Grease and Chassis Grease. We are reckoned among the renowned Manufacturers, Exporters and Suppliers of Greases."
+                    android:id="@+id/i5"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i6"
+                    android:textColor="#203088"
+                    android:text="read more..."
+                    android:textSize="20dp"
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+            <LinearLayout
+                android:layout_below="@+id/line2"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:id="@+id/line3"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i7"
+                    android:text="Phytoscience Products"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="We share glorious credentials in the list of top Manufacturers, Exporters and Suppliers of Phytoscience Products. Our range of Phytoscience Products includes Phytoscience Double Stem Cell, Phytoscience Triple Stem Cell and many more."
+                    android:id="@+id/i8"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i9"
+                    android:textColor="#203088"
+                    android:text="read more..."
+                    android:gravity="right"
+                    android:textSize="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+
+        <android.support.v7.widget.CardView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="4dp"
+            app:cardCornerRadius="4dp" >
+
+
+            <LinearLayout
+                android:layout_below="@+id/line3"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:layout_marginTop="10dp"
+                android:id="@+id/line4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/i10"
+                    android:text="Aloeve Products"
+                    android:textStyle="bold"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:text="Backed by our team of dexterous professionals, we have emerged as a trusted Manufacturer, Supplier and Exporter of Aloeve Products from Odisha."
+                    android:id="@+id/i11"
+                    android:textSize="24sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/i12"
+                    android:textColor="#203088"
+                    android:text="read more..."
+                    android:textSize="20dp"
+                    android:gravity="right"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+</ScrollView>
